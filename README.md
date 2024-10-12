@@ -1,14 +1,14 @@
 # find-jobs
 
-This template should help get you started developing with Vue 3 in Vite.
+Learning Vue JS for the very first time.
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Project Clone
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+```sh
+git clone https://github.com/Johndiddles/find-jobs
+```
 
 ## Project Setup
 
